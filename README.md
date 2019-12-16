@@ -12,3 +12,4 @@ Simple Student Registration System
 - The admin user name is "admin" adn the password is "admin" as for the student, his/her username is her Student ID and her password is her lastname
 - The project is made out entirely of c language and uses only the stdio.h header in the back end part while the other headers are for the user-friendly GUI
 - The Project uses structs and pointers as well as different functions made by the programmers
+- Download all the files and enjoy!
